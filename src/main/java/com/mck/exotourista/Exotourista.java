@@ -13,7 +13,7 @@ import lombok.Setter;
 @Entity
 @Getter
 @Setter
-@Table(name="hotels")
+@Table(name="restaurant")
 @AllArgsConstructor
 public class Exotourista {
 
